@@ -12,11 +12,9 @@ To predict per patient:
 
 ## Data
 
-[Raw Data](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Project_Data.zip)
-
-[Viz Data](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Prep_Data/Viz_Data.zip) - Data prepared for exploratory analysis by [Viz_Data_Pipe.ipynb](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Viz_Data_Pipe.ipynb)
-
-[Prep Data](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/tree/master/Prep_Data) - Data prepared for modelling by [Data_Prep_Pipe.ipynb](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Data_Prep_Pipe.ipynb)
+* [Raw Data](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Project_Data.zip)
+* [Viz Data](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Prep_Data/Viz_Data.zip) - Data prepared for exploratory analysis by [Viz_Data_Pipe.ipynb](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Viz_Data_Pipe.ipynb)
+* [Prep Data](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/tree/master/Prep_Data) - Data prepared for modelling by [Data_Prep_Pipe.ipynb](https://github.com/Msundarv/Physionet-Cardiology-Challenge-2012/blob/master/Data_Prep_Pipe.ipynb)
 
 ## Visualization
 
